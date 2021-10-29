@@ -1,0 +1,10 @@
+BACKBONE:
+    resnet50_FPN
+MAX_ITERS:
+    3000
+HYPERPARAMETERS:
+    LR:
+        0.02
+    MOMENTUM:
+        0.9
+
